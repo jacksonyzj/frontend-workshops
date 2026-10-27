@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env*.local
+.DS_Store
+test-results/
+playwright-report/
+# created during workshop prep with its own git repo
+3-apartment-finder/
